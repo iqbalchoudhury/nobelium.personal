@@ -1,0 +1,1 @@
+The differnce between git stash apply and git stash pop is the the git stash apply leaves the stash in the stash list and allows us to apply the same stash multiple times, while git stash pop removes the stash from the stash list after applying the changes, so we cannot apply the same stash again.
